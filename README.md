@@ -186,7 +186,7 @@ Take a break from programming problems for a half hour and go through your flash
 ## Data Structures
 
 - ### Arrays
-    - Implement an automatically resizing vector.
+    - [ ] Implement an automatically resizing vector.
     - [ ] Description:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
@@ -531,10 +531,10 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] Graphs (review and more):
 
-    - [ ] [6.006 Single-Source Shortest Paths Problem (video)](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.006 Dijkstra (video)](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.006 Bellman-Ford (video)](https://www.youtube.com/watch?v=ozsuci5pIso&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=17)
-    - [ ] [6.006 Speeding Up Dijkstra (video)](https://www.youtube.com/watch?v=CHvQ3q_gJ7E&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=18)
+    - [X] [6.006 Single-Source Shortest Paths Problem (video)](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [X] [6.006 Dijkstra (video)](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [X] [6.006 Bellman-Ford (video)](https://www.youtube.com/watch?v=ozsuci5pIso&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=17)
+    - [X] [6.006 Speeding Up Dijkstra (video)](https://www.youtube.com/watch?v=CHvQ3q_gJ7E&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=18)
     - [ ] [Aduni: Graph Algorithms I - Topological Sorting, Minimum Spanning Trees, Prim's Algorithm -  Lecture 6 (video)]( https://www.youtube.com/watch?v=i_AQT_XfvD8&index=6&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
     - [ ] [Aduni: Graph Algorithms II - DFS, BFS, Kruskal's Algorithm, Union Find Data Structure - Lecture 7 (video)]( https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7)
     - [ ] [Aduni: Graph Algorithms III: Shortest Path - Lecture 8 (video)](https://www.youtube.com/watch?v=DiedsPsMKXc&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=8)
@@ -665,10 +665,10 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
             - [ ] [Probability Explained (video)](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
 
 - ### NP, NP-Complete and Approximation Algorithms
-    - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
+    - [X] Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
         and be able to recognize them when an interviewer asks you them in disguise.
-    - Know what NP-complete means.
-    - [ ] [Computational Complexity (video)](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23)
+    - [X] Know what NP-complete means.
+    - [X] [Computational Complexity (video)](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23)
     - [ ] Simonson:
         - [ ] [Greedy Algs. II & Intro to NP Completeness (video)](https://youtu.be/qcGnJ47Smlo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=2939)
         - [ ] [NP Completeness II & Reductions (video)](https://www.youtube.com/watch?v=e0tGC6ZQdQE&index=16&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
@@ -678,7 +678,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] [CSE373 2012 - Lecture 23 - Introduction to NP-Completeness (video)](https://youtu.be/KiK5TVgXbFg?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1508)
         - [ ] [CSE373 2012 - Lecture 24 - NP-Completeness Proofs (video)](https://www.youtube.com/watch?v=27Al52X3hd4&index=24&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
         - [ ] [CSE373 2012 - Lecture 25 - NP-Completeness Challenge (video)](https://www.youtube.com/watch?v=xCPH4gwIIXM&index=25&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-    - [ ] [Complexity: P, NP, NP-completeness, Reductions (video)](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
+    - [X] [Complexity: P, NP, NP-completeness, Reductions (video)](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
     - [ ] [Complexity: Approximation Algorithms (video)](https://www.youtube.com/watch?v=MEz1J9wY2iM&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=24)
     - [ ] [Complexity: Fixed-Parameter Algorithms (video)](https://www.youtube.com/watch?v=4q-jmGrmxKs&index=25&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
     - Peter Norvig discusses near-optimal solutions to traveling salesman problem:
@@ -695,35 +695,35 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] [MIT 6.004 L16: Cache Issues (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 
 - ### Processes and Threads
-    - [X] Computer Science 162 - Operating Systems (25 videos):
+    - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
         - [Operating Systems and System Programming (video)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
     - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
         - Processes, Threads, Concurrency issues
-            - difference between processes and threads
-            - processes
-            - threads
-            - locks
-            - mutexes
-            - semaphores
-            - monitors
-            - how they work
-            - deadlock
-            - livelock
-        - CPU activity, interrupts, context switching
-        - Modern concurrency constructs with multicore processors
-        - [Paging, segmentation and virtual memory (video)](https://www.youtube.com/watch?v=LKe7xK0bF7o&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8&index=2)
+            [X] difference between processes and threads
+            [X] processes
+            [X] threads
+            [X] locks
+            [X] mutexes
+            [X] semaphores
+            [ ] monitors
+            [X] how they work
+            [X] deadlock
+            [ ] livelock
+        - [ ] CPU activity, interrupts, context switching
+        - [ ] Modern concurrency constructs with multicore processors
+        - [ ] [Paging, segmentation and virtual memory (video)](https://www.youtube.com/watch?v=LKe7xK0bF7o&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8&index=2)
         - [Interrupts (video)](https://www.youtube.com/watch?v=uFKi2-J-6II&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8&index=3)
         - [Scheduling (video)](https://www.youtube.com/watch?v=-Gu5mYdKbu4&index=4&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8)
-        - Process resource needs (memory: code, static storage, stack, heap, and also file descriptors, i/o)
-        - Thread resource needs (shares above (minus stack) with other threads in the same process but each has its own pc, stack counter, registers, and stack)
-        - Forking is really copy on write (read-only) until the new process writes to memory, then it does a full copy.
-        - Context switching
+        - [ ] Process resource needs (memory: code, static storage, stack, heap, and also file descriptors, i/o)
+        - [ ] Thread resource needs (shares above (minus stack) with other threads in the same process but each has its own pc, stack counter, registers, and stack)
+        - [ ] Forking is really copy on write (read-only) until the new process writes to memory, then it does a full copy.
+        - [ ] Context switching
             - How context switching is initiated by the operating system and underlying hardware
     - [X] [threads in C++ (series - 10 videos)](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M)
-    - [ ] concurrency in Python (videos):
-        - [ ] [Short series on threads](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVMONJWJkmUh6_p8g4F2oy1)
+    - [X] concurrency in Python (videos):
+        - [X] [Short series on threads](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVMONJWJkmUh6_p8g4F2oy1)
         - [ ] [Python Threads](https://www.youtube.com/watch?v=Bs7vPNbB9JM)
         - [ ] [Understanding the Python GIL (2010)](https://www.youtube.com/watch?v=Obt-vMVdM8s)
             - [reference](http://www.dabeaz.com/GIL)
@@ -765,10 +765,10 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - ### Testing
     - To cover:
-        - how unit testing works
-        - what are mock objects
-        - what is integration testing
-        - what is dependency injection
+        -[X] how unit testing works
+        -[ ] what are mock objects
+        -[ ] what is integration testing
+        -[ ] what is dependency injection
     - [ ] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
     - [ ] [Open Lecture by James Bach on Software Testing (video)](https://www.youtube.com/watch?v=ILkT_HV9DVU)
     - [ ] [Steve Freeman - Test-Driven Development (that’s not what we meant) (video)](https://vimeo.com/83960706)
@@ -783,12 +783,12 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [How to write tests](http://jasonpolites.github.io/tao-of-testing/ch4-1.1.html)
 
 - ### Scheduling
-    - in an OS, how it works
-    - can be gleaned from Operating System videos
+    -[X] in an OS, how it works
+    -[X] can be gleaned from Operating System videos
 
 - ### Implement system routines
-    - understand what lies beneath the programming APIs you use
-    - can you implement them?
+    -[ ] understand what lies beneath the programming APIs you use
+    -[ ] can you implement them?
 
 - ### String searching & manipulations
     - [ ] [Sedgewick - Suffix Arrays (video)](https://www.coursera.org/learn/algorithms-part2/lecture/TH18W/suffix-arrays)
@@ -1266,17 +1266,17 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
     - [ ] [MessagePack](http://msgpack.org/index.html)
     - [ ] [Avro](https://avro.apache.org/)
 
-- ### A*
-    - [ ] [A Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
-    - [ ] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
+- ### 
+    - [X] [A Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+    - [X] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
+    - [X] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
 
 - ### Fast Fourier Transform
-    - [ ] [An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-    - [ ] [What is a Fourier transform? What is it used for?](http://www.askamathematician.com/2012/09/q-what-is-a-fourier-transform-what-is-it-used-for/)
-    - [ ] [What is the Fourier Transform? (video)](https://www.youtube.com/watch?v=Xxut2PN-V8Q)
-    - [ ] [Divide & Conquer: FFT (video)](https://www.youtube.com/watch?v=iTMn0Kt18tg&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=4)
-    - [ ] [Understanding The FFT](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
+    - [X] [An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+    - [X] [What is a Fourier transform? What is it used for?](http://www.askamathematician.com/2012/09/q-what-is-a-fourier-transform-what-is-it-used-for/)
+    - [X] [What is the Fourier Transform? (video)](https://www.youtube.com/watch?v=Xxut2PN-V8Q)
+    - [X] [Divide & Conquer: FFT (video)](https://www.youtube.com/watch?v=iTMn0Kt18tg&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=4)
+    - [X] [Understanding The FFT](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 
 - ### Bloom Filter
     - Given a Bloom filter with m bits and k hashing functions, both insertion and membership testing are O(k)
